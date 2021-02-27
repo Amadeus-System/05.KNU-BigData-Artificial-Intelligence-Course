@@ -15,14 +15,15 @@ Repository for my Bigdata and Artificial Intelligence course in KNU
 
 1. Fundamental Python Programming
 2. Python Library for data processing
-3. Database(SQL)  
+3. Database (SQL)  
 4. Web Programming
 5. Machine Learning
 6. Deep Learning
 7. Deep Learning Framework
 8. Natural Language Processing (NLP)
 9. Audio Voice Processing
-10. Computer Vision(CV)
+10. Computer Vision (CV)
+11. Final Projects (Precipitation Nowcasting and KNU Everytime Crawling)
 
 You can see and download my learning record within each folder.
 
@@ -45,8 +46,6 @@ You can see and download my learning record within each folder.
 (여기서 대략 왼쪽 봉우리 위치..)
 
 ![더닝크루거 곡선](https://drive.google.com/uc?export=view&id=1jXiSgFiGTA3lIeuAvpZ6dcVFbV5-WsXb)
-  
-<br>
 
 아무튼 당시의 나는 이 교육과정을 통해 무언가 대단한 것을 배울 건 없으리라고 대단히 평가절하하고 있었다. 이 과정이 대학교 주관으로 이루어지는 국비지원 IT 교육의 일종이라고 이해하고 있었고, 그러한 교육에 대한 부정적인 경험 기록을 인터넷에서 자주 보았기 때문이다. 
 
@@ -88,23 +87,21 @@ You can see and download my learning record within each folder.
 
 <br>
 
-어쨋든 최종적으로 기후예측 프로젝트, 댓글 오염도 프로젝트 두 개가 모두 교육과정에서의 우수작으로 선정되는 기염을 토했다! ㅇㅅㅇ! 이때 완전 기분좋음 ㅎㅎ. 
+어쨋든 최종적으로 인공신경망을 활용한 강우예측 프로젝트, 크롤링을 활용한 댓글 오염 분석 프로젝트 두 개가 모두 교육과정에서의 우수작으로 선정되는 기염을 토했다! ㅇㅅㅇ! 이때 완전 기분좋음 ㅎㅎ. 
+
+![](https://drive.google.com/file/d/1Z8SFdX2CwcirRQzs3oUiYTMOciMltgG9/view?usp=sharing)
 
 <br>
 
-But.. 코로나 때문에... 강원대 컨퍼런스에서 진행될 예정이었던 우수 프로젝트 시연회도.. 포스터도 다 없는 일이 되어버렸다.
+But 코로나 때문에... [2020 강원 빅데이터 포럼]에서 진행될 예정이었던 우수 프로젝트 시연회도, 포스터도 다 없는 일이 되어버렸다. 하지만! 알고보니 포럼 자체는 취소된 것이 아니었다. 당시에 코로나가 다시 심해져서 50명 미만은 모여서는 안 되었는데, 그 때문에 학생들은 참석하지 않게 되고, 일부 관계자들만 모여서 소소하게 행사가 진행되었던 것이다. 그 당시에 찍힌 사진 중에 본 교육과정의 우수 포스터 사진도 있었다! ㅎㅎ
 
-<br>
+![우수작품 포스터](https://drive.google.com/uc?export=view&id=1Z8SFdX2CwcirRQzs3oUiYTMOciMltgG9)
 
-큭.. 코로나때문에 되는게 없어!
-
-암튼 배운건 있었으니 나쁘지 않았ㄷ..
+결과적으로 5개월 동안의 교육, 한 달 동안의 프로젝트에 쏟은 노력이 빛을 발하게 되었다! ㅎㅎ.. 역시 노력은 배신하지 않는다.
 
 최종적으로 얻게 된건! 6개월(640시간) 동안 이 교육을 잘 이수했다는 수료증명서! 크으! 넘나 뿌듯하구염!!
 
-<br>
+이 당시 석사 1학기로 대학원 수업 및 연구를 진행하면서 동시에 이 수업을 듣고 프로젝트를 진행하느라 정말 엄청 바빴다.. 중간에 대학원이나 국비교육 둘 중 하나를 포기해야 하나 생각할 정도로... (월 40만원의 훈련 수당이 없었다면 교육을 그만뒀을지도 모른다. ㅎㅎ)
 
-이 당시 석사 1학기로 대학원 수업 및 연구를 진행하면서 동시에 이 수업을 듣고 프로젝트를 진행하느라 정말 엄청 바빴다.. 중간에 대학원이나 국비교육 둘 중 하나를 포기하는걸 진지하게 생각할 정도로... (월 40만원의 훈련 수당 또는 월 150가량의 대학원 월급이 없었다면 분명 어느 한쪽 포기했을 것이다.ㅋㅋ)
-
-결과적으로 6개월 동안 많은 것을 배웠고, 프로젝트를 진행함으로써 배운 것들을 다시 한 번 응용해볼 기회가 있었다. 교육과정 동안 친절하게 학생들을 이끌어주신 강원대학교 융합보안사업단의 이수안 교수님께 진심으로 감사를 드린다. 석사 첫학기인데 하라는 연구는 안하고 딴짓하는 제자를 관대하게 봐주신 김흥식 교수님께도 감사를 드린다.
+결과적으로 6개월 동안 많은 것을 배웠고, 프로젝트를 진행함으로써 배운 것들을 다시 한 번 응용해볼 기회가 있었다. 교육과정 동안 친절하게 학생들을 이끌어주신 강원대학교 융합보안사업단의 이수안 교수님께 진심으로 감사를 드린다. 석사 첫 학기인데 연구는 안하고 딴짓하는 제자를 관대하게 봐주신 김흥식 교수님께도 감사를 드린다.
 
