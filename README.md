@@ -1,6 +1,5 @@
 # 05.KNU-Bigdata-Artificial-Intelligence-course
-
-Repository for my Bigdata and Artificial Intelligence course in KNU
+강원대학교 융합보안사업단 주관 - 2020 빅데이터/인공지능 교육과정 공부기록
 
 [교육과정 포스터]
 
