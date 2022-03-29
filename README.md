@@ -1,5 +1,5 @@
-# 05.KNU-Bigdata-Artificial-Intelligence-course
-Repository for my Bigdata and Artificial Intelligence course in KNU
+# 05.KNU-BigData-Artificial-Intelligence-Course
+Repository For My BigData and Artificial Intelligence Course in KNU
 
 
 **[계속 수정중인 글입니다.]**
