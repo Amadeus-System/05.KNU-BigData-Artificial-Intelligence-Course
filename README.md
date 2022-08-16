@@ -1,7 +1,7 @@
 # 05.KNU-BigData-Artificial-Intelligence-Course
 Repository For My BigData and Artificial Intelligence Course in KNU
 
-https://lelouch0316.tistory.com/entry/Iterative-Peak-Fitting-of-Frequency-Domain-Data-via-Deep-Convolution-Neural-Networks?category=1076241
+https://lelouch0316.tistory.com/entry/%EA%B0%95%EC%9B%90%EB%8C%80%ED%95%99%EA%B5%90-%EC%9C%B5%ED%95%A9%EB%B3%B4%EC%95%88%EC%82%AC%EC%97%85%EB%8B%A8-%EC%A3%BC%EA%B4%80-2020-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95-%ED%9B%84%EA%B8%B0?category=1076241
 
 * **Date : 2022-03-28**
 * **Last Modified At : 2022-06-29**
